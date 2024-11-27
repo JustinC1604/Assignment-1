@@ -7,32 +7,59 @@ h1 {
 }
 /* Styling for the navigation bar */
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
-
 .navbar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #333;
-    overflow: hidden;
-    padding: 0.5em 1em;
+  background-color: #e0e0e0;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
 }
-
 .navbar a {
-    color: white;
-    text-decoration: none;
-    padding: 0.5em 1em;
-    text-align: center;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 10px 20px;
 }
 
 .navbar a:hover {
-    background-color: #575757;
+  background-color: #ccc;
+  border-radius: 5px;
 }
 
-.navbar .menu {
-    text-align: center;
-    margin-left: auto;
-    display: flex;
+/* Styling for about-us page */
+.section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+.text {
+  flex: 1;
+  min-width: 250px;
+  margin-right: 20px;
+}
+
+
+.content {
+  text-align: center;
+  padding: 20px;
+}
+.member-section {
+  margin-top: 20px;
+}
+.member-section img {
+  width: 500px;
+  height: 500px;
+  background-color: #d3d3d3;
+  display: block;
+  margin: 10px auto;
+  border: 2px solid #ccc;
+}
+.member-section .info {
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: center;
 }
