@@ -371,11 +371,6 @@ header {
   text-align: center;
 }
 
-.tours h1:hover {
-  color: #ffcc00; /* Highlight */
-  transition: color 0.3s;
-}
-
 .ticket-link {
   display: Flex;
   justify-content: center;
