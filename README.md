@@ -43,3 +43,20 @@ Features left to implement:
 * Lyric translation tool - An interactive feature to display song lyrics with translations, enabling non-Cantonese-speaking fans to 
   appreciate Beyond's message.
 - Merchandise store - A store page offering Beyond-related merchandise, including apparel, vinyl records, and memorabilia.
+
+## Technologies used 
+
++ [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - The project uses HTML to structure the content and layout of the website.
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    + The project uses CSS for styling the website, including layouts, colors, fonts, and animations to enhance user experience.
+
+* [Google fonts](https://fonts.google.com/)
+    + The project uses google fonts to incorporate custom typography, enhancing the aesthetic appeal of the website.
+
+- [GitHub](https://github.com/)
+    * The project uses GitHub to host the project repository, provide version tracking, issue management, and collaboration tools.
+
++ [VS Code](https://code.visualstudio.com/)
+    - The project uses Visual Studio Code as the primary code editor for writing, testing, and debugging code.
