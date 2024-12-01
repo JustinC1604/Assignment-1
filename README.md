@@ -27,3 +27,19 @@ For new fans:
 
 For general users:
 + As a visitor, I want to navigate the website easily, so that I can find content without confusion.
+
+## Features
+
+Existing features:
++ Homepage - allows users to get an overview of the band's legacy providing a brief introduction and visually engaging content such as photos
+- About page - Allows users to learn about the band's history and milestones by providing a rough timeline of their journey and significant achievements.
+* Albums section - Allows users to explore Beyond's albums and songs by presenting them in an interactive format with album art, release dates, and 
+  tracklists.
++ Interactive navigation - Allows users to seamlessly move between sections by providing a fixed and intuitive navigation bar with smooth scrolling functionality.
+- Events and tour dates - A calendar to keep fans informed about upcoming tribute concerts.
+
+Features left to implement:
++ Music player preview - Allows users to listen to short previews of Beyond's most popular songs, directly integrated into the site.
+* Lyric translation tool - An interactive feature to display song lyrics with translations, enabling non-Cantonese-speaking fans to 
+  appreciate Beyond's message.
+- Merchandise store - A store page offering Beyond-related merchandise, including apparel, vinyl records, and memorabilia.
