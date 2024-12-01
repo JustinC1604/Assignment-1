@@ -60,3 +60,41 @@ Features left to implement:
 
 + [VS Code](https://code.visualstudio.com/)
     - The project uses Visual Studio Code as the primary code editor for writing, testing, and debugging code.
+
+## Testing
+
++ Homepage
+    1. Open the website in different browsers.
+    2. Check that the welcome message, band image, and navigation bar are correctly displayed.
+    3. Click on the navigation links to ensure they redirect to the correct sections.
+    4. Hover over the links and photos to make sure that the hover effect works correctly.
+
+- About page
+    1. Navigate to the "About" page via the navigation bar.
+    2. Verify that the images are visible and page is scrollable.
+    3. Ensure description loads correctly.
+
+* Album page
+    1. Navigate to the 'Album' page via the navigation bar.
+    2. Check that the album cover dispay and album details are correctly formatted.
+    3. Click on the 'Listen now on Spotify' button and ensure it links to the specific album on Spotify.
+
++ Tour page
+    1. Navigate to the 'Tour' page via the navigation bar.
+    2. Check that the images are correctly displayed together with the tour details.
+    3. Click on the 'Buy tickets' button and check that it links to the ticketing website.
+
+- Responsive Design
+    1. Open the website on a smartphone.
+    2. Check that the layout adjusts correctly on all devices.
+    3. Test text readability and button functionality.
+
++ Browser compatibility testing
+    * Microsoft Edge: Fully functionality.
+    + Google Chrome: Functional, but some images would not load.
+
+* Bugs
+    + Some images in the homepage and the About page get cut off on smaller screens.
+
+
+
