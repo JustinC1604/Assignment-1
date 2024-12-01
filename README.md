@@ -90,11 +90,42 @@ Features left to implement:
     3. Test text readability and button functionality.
 
 + Browser compatibility testing
-    * Microsoft Edge: Fully functionality.
+    * Microsoft Edge: Fully functional.
     + Google Chrome: Functional, but some images would not load.
 
 * Bugs
     + Some images in the homepage and the About page get cut off on smaller screens.
+
+## Credits
+
+### Content
+
++ The text "The band became prominent...officially disbanded" in the Overview section in the 'About' page was copied from
+   [Wikipedia](https://en.wikipedia.org/wiki/Beyond_(band))
+
+### Media
+
+- The photos used in this site were obtained from:
+    * https://onecms-res.cloudinary.com/image/upload/v1640967679/8days-migration/beyond-1-data.jpg
+    + https://media.zenfs.com/en/mmail.com.my/40460de74f498329db48716e13db83fc
+    - https://th.bing.com/th/id/R.740f4abc2d5f2592b0bf1c4f5e739a43?rik=6%2fjgIQzDgAzhTA&riu=http%3a%2f%2fi0.hdslb.com%2fbfs%2farchive%2f9addc258fe6f6612700a86bac5299646c644f229.jpg&ehk=1dnmm4SGR8L3iOZX4sgXbpUPEd%2b0e4%2ffNtgl2I7Si%2fo%3d&risl=&pid=ImgRaw&r=0
+    * https://img.freepik.com/premium-vector/round-spotify-logo-isolated-white-background_469489-989.jpg
+    + https://thumbs.dreamstime.com/b/square-instagram-logo-isolated-white-background-transparent-attached-png-format-311465109.jpg
+    - https://icon2.cleanpng.com/20180619/sws/aa6xm7p94.webp
+    * https://th.bing.com/th/id/R.14a5d500f43d806a1c4c7dc16612652e?rik=Rlq7q4Qnd5g2wQ&riu=http%3a%2f%2fwww.china-expats.com%2fImages%2fMusic%2fBeyond01.gif&ehk=4nLiACyKl%2bCk48vSirecebmq5LOWz8N2kXtO%2by%2bwIFQ%3d&risl=&pid=ImgRaw&r=0
+    + https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/images/methode/2018/06/29/734dee28-7848-11e8-8ce4-b59b2fedb43f_1280x720_144659.jpg?itok=1hAh5zHo
+    - https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4HMP6S0MklQwfHRvPUeH3U26DRl.jpg
+    * https://upload.wikimedia.org/wikipedia/commons/e/e7/Paul_Wong.JPG
+    + https://static.247tickets.com/o_1cse2v47j1k47f9d13upues1dme1v.jpg
+    - https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/88/8c/18888c74-4614-34e0-3b1d-97926bc57bb5/23UMGIM43919.rgb.jpg/316x316bb.webp
+    * https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/9f/6d/62/9f6d62cd-c6fd-1037-fe9b-df8d6d752a3c/dj.isfwsfsf.jpg/316x316bf.webp
+    + https://i.kfs.io/album/global/93499,0v1/fit/500x500.jpg
+    - https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c5/8f/f3/c58ff30c-9933-5e12-fe2d-e1aa9d4fa4ae/20UMGIM03966.rgb.jpg/316x316bb.webp
+    * https://lastfm.freetls.fastly.net/i/u/770x0/667d748ef05581f93afc7b2a1064c484.jpg#667d748ef05581f93afc7b2a1064c484
+    + https://wallpaperaccess.com/full/359864.jpg
+    - https://wallpaperaccess.com/full/54770.jpg
+    * https://images7.alphacoders.com/406/406038.jpg
+
 
 
 
