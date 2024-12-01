@@ -65,6 +65,7 @@ section {
   text-align: center; 
 }
 
+/* Styling for Learn More button */
 .button {
   display: inline-block; 
 }
@@ -148,6 +149,7 @@ p {
   width: 80%;
 }
 
+/* Styling for socials link */
 .socials-link {
   display: flex;
   justify-content: center; 
@@ -162,13 +164,13 @@ p {
   height: 40px;
   }
 
-  @media (max-width: 768px) {
-    .photo {
-      grid-template-columns: 1fr;
+@media (max-width: 768px) {
+  .photo {
+    grid-template-columns: 1fr;
     }
-    .photo img {
-      margin-bottom: 20px; 
-    }
+  .photo img {
+    margin-bottom: 20px; 
+   }
   }
 
 /* Styling for about-us page */
@@ -298,6 +300,7 @@ header {
   color: #555;
 }
 
+/* Styling for spotify link button */
 .listen-now {
   margin-top: 1rem;
 }
@@ -318,6 +321,7 @@ header {
   background-color: #17a44a;
 }
 
+/* Footer */
 footer {
   background-color: #333;
   color: #fff;
@@ -370,6 +374,7 @@ header {
   text-align: center;
 }
 
+/* Styling for Buy tickets button */
 .ticket-link {
   display: Flex;
   justify-content: center;
@@ -394,6 +399,7 @@ header {
   transform: scale(1.05);
 }
 
+/* Footer */
 footer {
   background-color: #333;
   color: #fff;
